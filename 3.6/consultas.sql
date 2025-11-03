@@ -1,9 +1,4 @@
 -- ============================================================
--- SCRIPT 2: INSERCIÓN DE DATOS Y CONSULTAS
--- Proyecto: Sistema de Gestión de Salas y Equipos
--- Descripción: Pobla la base de datos con datos de ejemplo basados
--- en los Apuntes de Análisis de Requerimientos y verifica la integridad.
--- Autor: Juan (modificado por IA)
 -- ============================================================
 
 USE mydb;
